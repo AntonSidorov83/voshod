@@ -451,8 +451,8 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/карты_1.jpg?1607609296306", id:"карты_1"},
-		{src:"images/карты_atlas_1.png?1607609296157", id:"карты_atlas_1"}
+		{src:"images/карты_1.jpg", id:"карты_1"},
+		{src:"images/карты_atlas_1.png", id:"карты_atlas_1"}
 	],
 	preloads: []
 };
