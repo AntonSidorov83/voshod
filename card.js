@@ -1745,7 +1745,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"карты_1.jpg", id:"карты_1"}
+		{src:"https://static.tildacdn.com/tild6461-6264-4237-b836-313733353237/_1.jpg", id:"карты_1"}
 	],
 	preloads: []
 };
