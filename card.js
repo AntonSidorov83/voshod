@@ -1,4 +1,4 @@
-﻿(function (cjs, an) {
+(function (cjs, an) {
 
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
@@ -138,7 +138,7 @@ lib.ssMetadata = [];
 (lib.карты_1 = function() {
 	this.initialize(img.карты_1);
 }).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,960,720);// helper functions:
+p.nominalBounds = new cjs.Rectangle(0,0,3000,2250);// helper functions:
 
 function mc_symbol_clone() {
 	var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
@@ -208,7 +208,7 @@ p.nominalBounds = new cjs.Rectangle(-19.9,-10.9,39.9,21.9);
 
 	// Слой_1
 	this.shape = new cjs.Shape();
-	this.shape.graphics.f("#155DA5").s().p("AzBUQIOQm6IIDLJIuSHCgAv1U3IFvICIKMlBIlwn+gAsqVeIGIi/IDdEzImIDAgAEJV5ICChAIiUjMIiCBAIlun7IEAh9IhHhlIB/g+IBKBkIGBi7IhKhjICAg+IhJhkImAC5IBJBkIiBA/IhIhlIiBA/IhJhlIiAA+IBJBlIiCA+IBKBlIiCA+IhIhlIkEB9IhJhkIiCA+IBJBmICChAICSDLIoKD9IiQjMICBg/IBKBlICCg+IhJhmIiDA/IhIhlIEEh+IhJhlIEEh9IBJBlIEDh9IhJhkIEBh8IkimOIiAA9IBJBkIiCA9IhIhjIkCB6IBIBkIECh7IBJBkImEC5IiRjIIkEB8IBJBlIkEB8IhJhkIEEh9IhHhkIMHlxIhIhkICBg9IiQjGICBg8ICPDFICAg9IhIhjICAg9IiQjEIiAA8IBIBjIh/A9IhIhjIB/g9IhHhiIB/g8IhIhiIj/B4IhHhiIiBA9IhHhjIJ+krICPDDIB/g9IBIBiIB/g8ICPDEIh/A8IhHhiIiAA8IEhGJIF9i1IBIBiIj+B5ICRDGIp9EyIBJBjID/h6IBIBjICBg9IBJBjIB/g9IhJhjICAg+IhKhjICAg9IhJhjIB/g9IhIhjIB+g8IhJhiIB+g9IhIhjIB+g8IBJBjIB+g8IhJhiIF4i0IBKBiIh9A7IBIBiIB+g8IBJBhIh+A9IhJhiIh9A8ICSDEIh+A8IBJBjID8h5IBJBiIB/g9IBJBjIh+A9IBKBiIh+A9ICTDGIh+A+IEqGNIB+g+IjfkpIB+g+IhKhjIB+g9IIJK3Ih+A+IhLhkIl8C7IBLBkIj+B9IhLhlIh/A/IBLBlIkAB+IhKhmICAg+IhLhlID/h9IhKhlID+h8IBKBkIB/g+IhKhkIh/A+IhLhkIj9B8IBKBkIn/D6IDfEvIkAB/IhLhmICBg/IjfkvIkAB9IiUjKICAg/IBKBlICAg+IhJhlID/h8IjdksIh/A+IBKBjIiAA+IBJBlIkAB8IBJBlIiAA+IhKhkIiBA+IBKBlICBg/ICTDLIiBA/IEoGXIkDB/gAOICCIDeEsIF9i6IjdkqgAibBlIBJBkID/h8IhJhjgAOXolIBJBiIl9C4IBJBjIh/A9IBJBkIB/g9IhJhkIB/g+IBKBkIB/g9IBJBjID9h7IBKBkIB/g+IhKhjIh/A9IiTjGIhfAuIArBzIh/A9IhKhjICehNIgqhyIBAgfIhJhiIB+g9IiSjEIj9B5IBJBjIB/g9IBJBigAh1lAID+h6IhIhjIh+A9IhJhjIkAB6IBJBjICAg9gArOmyIBIBkICBg+IhJhjgAUmnaIBJBjIB+g8IhKhjgAmWrMIBIBjICAg8IhIhjgAJ6OwICAg/IBKBlIiAA/gA2qLUICDg/IBIBmIiDA/gApFLKICBg/IBJBlIiBA/gA8FHkICDg/IBIBlICCg+IBIBkIiCA/IBIBlIiCA/gA2qLUgAGcKBgAX5H6gA02GNICCg+IBIBkIiCA/gAsgGbIhIhlICBg9IBJBkIiCA+gA+VEaICCg+IBIBlIiCA+gA7LFBgARSCoIB+g+IBLBkIiAA+gAquBXICBg+IBIBjIiBA/gEgnPgIFIOKmpIH1K0IuNGvgEgkGgHfIFkHyIKJkzIllnwgEgg9gG4IGEi4IDXEqImFC4gAa1mOIB9g9IBLBjIh+A9gAwYmbICCg9IBHBjIiAA+gAtPl1gAynphIEBh5IBIBiIkBB6gAQVpigAtep4gAXYq1IhJhiIB9g9IBJBiIh9A9gA3FvrICBg8ICODEICBg8IBHBiIkAB5gAgYuBIB+g8IBIBhIh/A9gAjK5CINvmeIH6KkItyGkgAgE4dIFnHnIJ2krIlqnkgADB33IF5iyIDZEjIl6CzgAk40JIhIhgIB/g9IBHBiIh+A7g");
+	this.shape.graphics.f("#155DA5").s().p("AzBUQIOQm6IIDLJIuSHCgAv1U3IFvICIKMlBIlwn+gAsqVeIGIi/IDdEzImIDAgAEJV5ICChAIiUjMIiCBAIlun7IEAh9IhHhlIB/g+IBKBkIGBi7IhKhjICAg+IhJhkImAC5IBJBkIiBA/IhIhlIiBA/IhJhlIiAA+IBJBlIiCA+IBKBlIiCA+IBJBlIiBA/IhJhlICBg/IhIhlIkEB9ICSDLIoKD9IiQjMICBg/IBKBlICCg+IhJhmIiDA/IhIhlIEEh+IhJhlIEEh9IBJBlIEDh9IhJhkIEBh8IkimOIiAA9IBJBkIiCA9IBJBkICBg+IBIBjIiBA/IhIhkImEC5IiRjIIkEB8IhHhkIMHlxIhIhkICBg9IiQjGICBg8ICPDFICAg9IhIhjICAg9IiQjEIiAA8IBIBjIh/A9IhIhjIB/g9IhHhiIB/g8IhIhiIj/B4IhHhiIiBA9IhHhjIJ+krICPDDIB/g9IhIhgIB/g9IBHBiIh+A7IBIBiIB/g8ICPDEIh/A8IhHhiIiAA8IEhGJIF9i1IBIBiIj+B5ICRDGIp9EyIBJBjID/h6IBIBjICBg9IBJBjIB/g9IhJhjICAg+IhKhjICAg9IhJhjIB/g9IhIhjIB+g8IhJhiIB+g9IhIhjIB+g8IBJBjIB+g8IhJhiIF4i0IBKBiIh9A7IBIBiIB+g8IBJBhIh+A9IhJhiIh9A8ICSDEIh+A8IBJBjID8h5IhJhiIB9g9IBJBiIh9A9IBJBiIB/g9IBJBjIh+A9IBKBiIB9g9IBLBjIh+A9IhKhjIh+A9ICTDGIh+A+IEqGNIB+g+IjfkpIB+g+IhKhjIB+g9IIJK3Ih+A+IhLhkIl8C7IBLBkIj+B9IhLhlIh/A/IBLBlIkAB+IhKhmICAg+IhLhlID/h9IhKhlID+h8IBKBkIB/g+IhKhkIh/A+IhLhkIj9B8IBKBkIn/D6IDfEvIkAB/IhLhmICBg/IjfkvIkAB9IiUjKICAg/IBKBlICAg+IhJhlID/h8IjdksIh/A+IBKBjIiAA+IBJBlIkAB8IBJBlIiAA+ICTDLIiBA/IEoGXIkDB/gABRKZIBKBlICBg/IhKhkgAvbJ9IBJBmICChAIhJhkgAOICCIDeEsIF9i6IjdkqgAibBlIBJBkID/h8IhJhjgAxBAKIBIBkIECh7IhIhjgAQVpiIh+A9IBJBiIl9C4IBJBjIh/A9IBJBkIB/g9IhJhkIB/g+IBKBkIB/g9IBJBjID9h7IBKBkIB/g+IhKhjIh/A9IiTjGIhfAuIArBzIh/A9IhKhjICehNIgqhyIBAgfIhJhiIB+g9IiSjEIj9B5IBJBjIB/g9gAh1lAID+h6IhIhjIh+A9IhJhjIkAB6IBJBjICAg9gArOmyIBIBkICBg+IhJhjgAUmnaIBJBjIB+g8IhKhjgAmWrMIBIBjICAg8IhIhjgAJ6OwICAg/IBKBlIiAA/gA2qLUICDg/IBIBmIiDA/gA8FHkICDg/IhJhkIEEh9IBJBlIkEB8IBIBlICCg+IBIBkIiCA/IBIBlIiCA/gAX5H6gA02GNICCg+IBIBkIiCA/gAsgGbIhIhlICBg9IBJBkIiCA+gA+VEaICCg+IBIBlIiCA+gARSCoIB+g+IBLBkIiAA+gEgnPgIFIOKmpIH1K0IuNGvgEgkGgHfIFkHyIKJkzIllnwgEgg9gG4IGEi4IDXEqImFC4gAwYmbICCg9IBHBjIiAA+gAynphIEBh5IBIBiIkBB6gAtep4gA3FvrICBg8ICODEICBg8IBHBiIkAB5gAgYuBIB+g8IBIBhIh/A9gAjK5CINvmeIH6KkItyGkgAgE4dIFnHnIJ2krIlqnkgADB33IF5iyIDZEjIl6Czg");
 	this.shape.setTransform(61.6479,49.4929,0.2454,0.2454);
 
 	this.timeline.addTween(cjs.Tween.get(this.shape).wait(1));
@@ -1684,62 +1684,62 @@ p.nominalBounds = new cjs.Rectangle(-1,-112.1,240.5,153.7);
 
 	// mstripe_container
 	this.instance = new lib.Символ33();
-	this.instance.setTransform(492.8,448.9);
+	this.instance.setTransform(442.8,448.9);
 	new cjs.ButtonHelper(this.instance, 0, 1, 2, false, new lib.Символ33(), 3);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	// barcode_container
 	this.instance_1 = new lib.Символ13();
-	this.instance_1.setTransform(662.6,179.6,1,1,0,0,0,61.1,-55.6);
+	this.instance_1.setTransform(612.6,179.6,1,1,0,0,0,61.1,-55.6);
 	new cjs.ButtonHelper(this.instance_1, 0, 1, 2, false, new lib.Символ13(), 3);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(1));
 
 	// num_container
 	this.instance_2 = new lib.Символ46();
-	this.instance_2.setTransform(610.6,121.05);
+	this.instance_2.setTransform(560.6,121.05);
 	new cjs.ButtonHelper(this.instance_2, 0, 1, 2, false, new lib.Символ46(), 3);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(1));
 
 	// number_idn
 	this.instance_3 = new lib.Символ45("synched",0);
-	this.instance_3.setTransform(610.6,121.05);
+	this.instance_3.setTransform(560.6,121.05);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(1));
 
 	// qr_container
 	this.instance_4 = new lib.Символ39();
-	this.instance_4.setTransform(322.95,421.5);
+	this.instance_4.setTransform(272.95,421.5);
 	new cjs.ButtonHelper(this.instance_4, 0, 1, 2, false, new lib.Символ39(), 3);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_4).wait(1));
 
 	// emboss_container
 	this.instance_5 = new lib.Символ21();
-	this.instance_5.setTransform(493.95,319.3,1,1,0,0,0,50.8,-26.9);
+	this.instance_5.setTransform(443.95,319.3,1,1,0,0,0,50.8,-26.9);
 	new cjs.ButtonHelper(this.instance_5, 0, 1, 2, false, new lib.Символ21(), 3);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_5).wait(1));
 
 	// backplate_card
 	this.instance_6 = new lib.карты_1();
-	this.instance_6.setTransform(0,-40);
+	this.instance_6.setTransform(-50,-40,0.571,0.571);
 
 	this.instance_7 = new lib.карты_1();
-	this.instance_7.setTransform(0,-40);
+	this.instance_7.setTransform(-50,-40,0.571,0.571);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_7},{t:this.instance_6}]}).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(480,280,480,400);
+p.nominalBounds = new cjs.Rectangle(380,280,530,400);
 // library properties:
 lib.properties = {
 	id: '9045774EE020A9438B141A4F15763C49',
-	width: 960,
+	width: 860,
 	height: 640,
 	fps: 24,
 	color: "#FFFFFF",
