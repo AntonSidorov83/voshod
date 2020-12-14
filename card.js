@@ -138,7 +138,7 @@ lib.ssMetadata = [];
 (lib.карты_1 = function() {
 	this.initialize(img.карты_1);
 }).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,1680,1260);// helper functions:
+p.nominalBounds = new cjs.Rectangle(0,0,960,720);// helper functions:
 
 function mc_symbol_clone() {
 	var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
@@ -1725,10 +1725,10 @@ p.nominalBounds = new cjs.Rectangle(-1,-112.1,240.5,153.7);
 
 	// backplate_card
 	this.instance_6 = new lib.карты_1();
-	this.instance_6.setTransform(0,-40,0.571,0.571);
+	this.instance_6.setTransform(0,-40);
 
 	this.instance_7 = new lib.карты_1();
-	this.instance_7.setTransform(0,-40,0.571,0.571);
+	this.instance_7.setTransform(0,-40);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_7},{t:this.instance_6}]}).wait(1));
 
