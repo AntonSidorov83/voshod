@@ -1725,10 +1725,10 @@ p.nominalBounds = new cjs.Rectangle(-1,-112.1,240.5,153.7);
 
 	// backplate_card
 	this.instance_6 = new lib.карты_1();
-	this.instance_6.setTransform(-50,-40,0.571,0.571);
+	this.instance_6.setTransform(-50,-40);
 
 	this.instance_7 = new lib.карты_1();
-	this.instance_7.setTransform(-50,-40,0.571,0.571);
+	this.instance_7.setTransform(-50,-40);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_7},{t:this.instance_6}]}).wait(1));
 
